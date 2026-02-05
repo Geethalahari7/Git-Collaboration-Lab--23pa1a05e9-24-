@@ -8,6 +8,10 @@ Name: Geetha Lahari
 Role: Repository Owner
 
 ## Collaborator Details
+
 Name: Akhila Palagani
+
+Name: Akhila Palagani  
+
 Role: Collaborator
 
